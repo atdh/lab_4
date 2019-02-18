@@ -1,0 +1,26 @@
+/* Add any css you want to use for you website here */
+
+html,body{
+height: 100%;
+width: 100%;
+background: url(http://mediad.publicbroadcasting.net/p/kunc/files/styles/x_large/public/201808/2016_homecominggame45ga.jpg);
+
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.container
+{
+color: white;
+
+
+
+
+}
+
+a .container {
+color: white !important;
+}
+
